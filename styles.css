@@ -1,11 +1,13 @@
 /* ========== BASE & VARIABLES ========== */
 :root {
-    --bg-light: #ffffff;
-    --bg-dark: #121212;
-    --fg-light: #222222;
-    --fg-dark: #e0e0e0;
-    --primary: #ff6347;
-    --transition: 0.3s ease;
+  --bg-light: #f7f9fc;      
+  --bg-dark: #1a202c;       
+  --fg-light: #2d3748;      
+  --fg-dark: #e2e8f0;      
+  --primary: #4a90e2;       
+  --transition: 0.3s ease;
+}
+
   }
   body[data-theme="light"] {
     background: var(--bg-light);
